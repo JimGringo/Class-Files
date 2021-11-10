@@ -8,7 +8,7 @@ while part != "":
 fileName = input("Enter File Name")
 outFile = open(fileName, "w")
 
-for key, value in partList:
+for key, value in partList.items():
     outFile.write(key + "\t" + value)
     outFile.write("\n")
 

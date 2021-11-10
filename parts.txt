@@ -1,0 +1,4 @@
+jumbo	64.85
+dumbo	683
+gumbo	4
+gungo	6.34
