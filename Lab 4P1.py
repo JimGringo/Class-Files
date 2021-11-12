@@ -18,7 +18,8 @@ x = 1792
 while x <= 2020:
     print(x)
     x += 4
-x = int(input("Any Number "))
+print('Part 5')
+x = int(input("Enter Any Number "))
 y = int(input('The exponent '))
 n = 1
 z = x
