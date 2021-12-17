@@ -1,0 +1,4 @@
+Electronics:A:3
+Computer Science:B:4
+English:A:3
+Math:C:5
