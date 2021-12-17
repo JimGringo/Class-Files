@@ -7,3 +7,4 @@ def readClassInfo(fileName):
     inFile = open(fileName, "r")
     for line in inFile:
         x = 1
+y =17
